@@ -1,2 +1,1 @@
-# CSC3065-Assignment-2
-
+CI Testing: Upload & Run "JavaGetRequest.zip" at https://repl.it/ as is
